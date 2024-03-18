@@ -1,0 +1,17 @@
+plaintext
+Input:
+"Hey there! I've got some potatoes and eggs in my kitchen, and I'm craving something savory. I'm thinking about making Savoury Baked Eggs. Could you help me out with a recipe?"
+
+Output:
+"Absolutely, here's a delicious recipe for Savoury Baked Eggs using your potatoes and eggs:
+
+1. Preheat your oven to 325°F (160°C).
+2. Start by peeling your potatoes and boiling them in salted water until tender, about 15-20 minutes. Once done, drain and mash them with 4 tablespoons of milk, half the salt, paprika, Tabasco sauce, and nutmeg.
+3. Hard boil 6 of your eggs, cool them under cold water, peel, halve, and set them aside.
+4. In a pan, melt some butter and fry the chopped onions and ground pork until the pork is browned. Sprinkle with flour, stir well, and cook for another 3 minutes.
+5. Take a greased ovenproof dish and spread the mashed potato mixture at the bottom. Layer it with the pork mixture and top with thinly sliced cucumbers.
+6. Place the tomato halves and egg halves around the edge of the dish to create pie-like portions.
+7. Whisk the remaining 4 eggs with milk, salt, parsley, and pepper. Pour this over the dish and bake for 40 minutes or until done. If it browns too quickly, cover with foil until fully cooked.
+8. Let it sit for a few minutes before serving, then cut into wedges and enjoy!
+
+This recipe will give you a hearty and savory dish that's perfect for any meal. Enjoy your cooking!"
